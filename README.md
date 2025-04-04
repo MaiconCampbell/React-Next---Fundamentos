@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 📚 Projetos de Fundamentos - React & Next
 
-## Getting Started
+ Este repositório contém projetos desenvolvidos para praticar os fundamentos do React e Next.js, utilizando conceitos essenciais como componentes, gerenciamento de estados e comunicação entre componentes. Também exploramos o uso de TailwindCSS para estilização e o uso de hooks como useState e useEffect.
 
-First, run the development server:
+### 🚀 Tecnologias Utilizadas
+
+- React
+
+- Next.js
+
+- TailwindCSS
+
+- JavaScript (ES6+)
+
+### 📖 Conceitos Abordados
+
+🔨 Componentes
+
+* Criação de componentes funcionais utilizando JSX.
+
+* Estilização com TailwindCSS.
+
+🌳 Árvore de Componentes
+
+* Estruturação hierárquica de componentes.
+
+* Comunicação direta e indireta entre componentes.
+
+📌 Gerenciamento de Estado
+
+* Utilização de useState para gerenciamento local de estados.
+
+* Uso de useEffect para efeitos colaterais e ciclo de vida dos componentes.
+
+* Implementação de Context API para gerenciamento global de estados.
+
+📂 CRUD
+
+* Criação, leitura, atualização e exclusão de dados utilizando o estado do React.
+
+### ⚙️ Como Rodar os Projetos
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Clone o repositório:
+ git clone <url-do-repositorio>
+
+Instale as dependências:
+ npm install
+
+Rode o servidor de desenvolvimento:
+ npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 📚 Aprendizados
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este repositório é parte do aprendizado sobre React e Next.js, e inclui conceitos importantes para o desenvolvimento de aplicações web modernas e escaláveis.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🔥 Próximos Passos
 
-## Learn More
+Melhorar o uso do Context API em projetos mais complexos.
 
-To learn more about Next.js, take a look at the following resources:
+Aprender sobre SSR e SSG no Next.js.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Integrar bibliotecas externas para gerenciamento de estado mais avançado.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+💡 Qualquer contribuição ou sugestão é bem-vinda! 🚀
